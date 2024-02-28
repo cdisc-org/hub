@@ -10,6 +10,8 @@ The main purpose of *CDISC Hub* is to:
 2) Provide announcements showing changes that occur within CDISC's open source efforts.
 3) Provide a catalogue of the various open source projects that CDISC is sponsoring.
 
+The best starting point is to visit the [Wiki for this repository](https://github.com/cdisc-org/hub/wiki/CDISC-Open-Source-Projects).
+
 ## Contribution
 
 Contribution is very welcome. When you contribute to this repository you are doing so under the below licenses. Please checkout [Contribution](CONTRIBUTING.md) for additional information. All contributions must adhere to the following [Code of Conduct](CODE_OF_CONDUCT.md).
